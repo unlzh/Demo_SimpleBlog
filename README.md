@@ -5,19 +5,19 @@
 
 博客主页：
 
-![博客主页](https://unlzhblog-1258116282.cos.ap-guangzhou.myqcloud.com/Django%E5%BC%80%E5%8F%91%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BA%94%E7%94%A8/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5.png)
+![博客主页](https://github.com/unlzh/Demo_SimpleBlog/raw/master/blog/static/images/bloghome.png)
 
 文章详情页：
 
-![文章详情页](https://unlzhblog-1258116282.cos.ap-guangzhou.myqcloud.com/Django%E5%BC%80%E5%8F%91%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BA%94%E7%94%A8/%E6%96%87%E7%AB%A0%E8%AF%A6%E6%83%85%E9%A1%B5.png)
+![文章详情页](https://github.com/unlzh/Demo_SimpleBlog/raw/master/blog/static/images/articlepage.png)
 
 后台登录：
 
-![后台登录](https://unlzhblog-1258116282.cos.ap-guangzhou.myqcloud.com/Django%E5%BC%80%E5%8F%91%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BA%94%E7%94%A8/%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95.png)
+![后台登录](https://github.com/unlzh/Demo_SimpleBlog/raw/master/blog/static/images/login.png)
 
 后台文章列表：
 
-![后台文章列表](https://unlzhblog-1258116282.cos.ap-guangzhou.myqcloud.com/Django%E5%BC%80%E5%8F%91%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BA%94%E7%94%A8/%E5%90%8E%E5%8F%B0%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8.png)
+![后台文章列表](https://github.com/unlzh/Demo_SimpleBlog/raw/master/blog/static/images/articlelist.png)
 
 ## 部署
 
